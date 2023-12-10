@@ -1,0 +1,5 @@
+.vs
+ICHING/bin/Debug/*
+ICHING/bin/Release/*
+ICHING/obj/x86/Debug/*
+ICHING/obj/x86/Release/*
